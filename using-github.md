@@ -12,3 +12,9 @@ Repository names should be all lower case with words divided by a dash for reada
 
 ## Naming files
 [TODO] Do we need different standards for different programming languages?
+
+## Branching Strategy
+[TODO]
+
+## Continuous Integration Best Practice
+[TODO]
