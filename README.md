@@ -31,3 +31,16 @@ https://www.ncsc.gov.uk/cyberessentials/overview
 
 https://learn.microsoft.com/en-gb/azure/well-architected/security/
 
+## Folder Structure
+```
+└── 📁chil-dev-docs 
+    └── README.md // Readme file
+    └── 📁assets // Folder for images and other fixed assets
+    └── 📁design-docs // Design docs folder
+        └── design-doc-template.md // Template for design docs
+        └── personas-and-use-cases.md //  Template and guidance for user stories
+    └── glossary.md // Glossary of terms 
+    └── project-management.md // Overview of project management approach
+    └── using-github.md // Guidance for using GitHub
+```
+
