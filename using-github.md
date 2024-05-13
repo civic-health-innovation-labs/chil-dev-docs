@@ -16,9 +16,9 @@ Repository names should be all lower case with words divided by a dash for reada
 ## Branching Strategy
 There are three stacks:
 
-**Production:** what is available to end user.
-**Staging:** for QA and testing purposes before deployment to production.
-**Development:** for development purposes.
+- **Production:** what is available to end user.
+- **Staging:** for QA and testing purposes before deployment to production.
+- **Development:** for development purposes.
 
 The suggested branching strategy has the following workflow:
 
