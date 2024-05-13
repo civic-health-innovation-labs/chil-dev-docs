@@ -1,4 +1,4 @@
-# chil-dev-docs
+# CHIL Development Guide
 Repository for development processes and standards for use of repositories and code approach. A good place for people to start to understand how to contribute here.
 
 ## How to Use GitHub
