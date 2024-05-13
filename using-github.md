@@ -14,7 +14,19 @@ Repository names should be all lower case with words divided by a dash for reada
 [TODO] Do we need different standards for different programming languages?
 
 ## Branching Strategy
-[TODO]
+There are three stacks:
+
+**Production:** what is available to end user.
+**Staging:** for QA and testing purposes before deployment to production.
+**Development:** for development purposes.
+
+The suggested branching strategy has the following workflow:
+
+1. The code which is in production is in the "main" branch.
+2. If the new feature (or fix) is required, the new branch is forked from "main" - the content of this branch is equivalent to the "development" stack.
+3. When the developer is happy with the new feature (fix), a pull request (aka PR) is created. The content of this PR is equivalent to the "staging" stack.
+4. Repositories should be configured to require review by at least one other person. The developer creating the PR should assign a reviewer.
+5. The reviewer should check the code and either accept or reject the PR. The reviewer should include comments about their decision. A reviewer can comment for discussion with the developer without rejecting if needs any clarification
 
 ## Continuous Integration Best Practice
 [TODO]
