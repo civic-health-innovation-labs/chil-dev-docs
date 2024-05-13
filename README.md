@@ -19,6 +19,8 @@ https://github.com/civic-health-innovation-labs/HeifER
 
 You should also find the principles outlined here useful:
 
+https://satre-specification.readthedocs.io
+
 https://www.turing.ac.uk/research/research-projects/turing-way
 
 https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud
