@@ -27,6 +27,8 @@ https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud
 
 You will also want to take a look at some of the security expectations we have:
 
+https://www.gov.uk/government/publications/secure-connected-places-playbook-documents/conducting-a-stride-based-threat-analysis
+
 https://www.ncsc.gov.uk/cyberessentials/overview
 
 https://learn.microsoft.com/en-gb/azure/well-architected/security/
