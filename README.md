@@ -5,7 +5,9 @@ Repository for development processes and standards for use of repositories and c
 [How we use GitHub](https://github.com/civic-health-innovation-labs/chil-dev-docs/blob/main/using-github.md)
 
 ## Programming Languages and Development Tools
-[TODO List usual languages and tools we use here, add link to training docs]
+[List of developer skills and materials](skills.md)
+
+[TODO] Add list of tools
 
 ## Trustworthy Research Environments
 
@@ -43,6 +45,7 @@ https://learn.microsoft.com/en-gb/azure/well-architected/security/
         └── personas-and-use-cases.md //  Template and guidance for user stories
     └── glossary.md // Glossary of terms 
     └── project-management.md // Overview of project management approach
+    └── skills.md // Skills and recommended training materials for dev team
     └── using-github.md // Guidance for using GitHub
 ```
 
