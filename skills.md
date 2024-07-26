@@ -17,6 +17,7 @@
 * [Learning Docker](https://www.linkedin.com/learning-login/share?account=41910772&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Flearning-docker-17236240%3Ftrk%3Dshare_ent_url%26shareId%3DTWzGeQVdSAOWOLLdy%252BmuKQ%253D%253D)
 * [Azure DevOps For Beginners](https://www.linkedin.com/learning-login/share?account=41910772&forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fazure-devops-for-beginners%3Ftrk%3Dshare_ent_url%26shareId%3D4m6R8VWbSQmYaM8eV1M94w%253D%253D)
 * [Mircrosoft Learning Secure Data Environments Collection](https://learn.microsoft.com/en-gb/collections/p38efw2np3xq37)
+* [Microsoft Enterprise Skills Initiative](https://esi.microsoft.com/landing) - A variety of online training material provided by Microsoft. Includes self-paced learning, online instructor-led courses, and practice exercises.
 
 #### List of Skills
 **Data pipeline** 
