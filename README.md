@@ -1,5 +1,5 @@
 # CHIL Development Guide
-Repository for development processes and standards for use of repositories and code approach. A good place for people to start to understand how to contribute here.
+Repository for development processes and standards for use of repositories and code approach. A good place for people to start to understand how to contribute here. This is intended to be a collection of living documents. Edits, additions and improvments are everyone's responsibility. To add or change something please create a branch and raise a pull request. 
 
 ## How to Use GitHub
 [How we use GitHub](https://github.com/civic-health-innovation-labs/chil-dev-docs/blob/main/using-github.md)
