@@ -35,6 +35,9 @@ https://www.ncsc.gov.uk/cyberessentials/overview
 
 https://learn.microsoft.com/en-gb/azure/well-architected/security/
 
+This is a useful guide for managing egress of data and how data should be anonymised:
+https://securedatagroup.org/wp-content/uploads/2025/03/sdc-handbook-v2.0.pdf
+
 ## Folder Structure
 ```
 └── 📁chil-dev-docs 
