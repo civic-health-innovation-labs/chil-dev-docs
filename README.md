@@ -27,6 +27,10 @@ https://www.turing.ac.uk/research/research-projects/turing-way
 
 https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud
 
+There is also a nationally developed glossary of terms here:
+
+https://glossary.uktre.org/en/v1.1/
+
 You will also want to take a look at some of the security expectations we have:
 
 https://www.gov.uk/government/publications/secure-connected-places-playbook-documents/conducting-a-stride-based-threat-analysis
