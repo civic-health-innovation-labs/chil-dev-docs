@@ -24,6 +24,8 @@
 * Spark / PySpark 
 * Azure Data Factory 
 * Databricks 
+* [Test Driven Development in Python](https://www.linkedin.com/learning/unit-testing-and-test-driven-development-in-python?u=41910772)
+* [Pytest](https://www.linkedin.com/learning/unit-testing-in-python?u=41910772)  
 
 ⠀**Deployment** 
 * Makefile 
