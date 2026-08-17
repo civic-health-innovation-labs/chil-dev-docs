@@ -1,5 +1,7 @@
 # Using GitHub
 
+## An Intro to Git
+There is a lot of material online on how to use git, but this is a good introduciton to the principles: https://git-scm.com/book/en/v2 
 ## Creating repositories
 Repositories are for discreet applications. Repository names should start with a project prefix and then the name of the application. Prefixes are:
 | Prefix | Project Name |
