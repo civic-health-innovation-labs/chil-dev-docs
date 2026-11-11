@@ -2,7 +2,7 @@
 |--|--|--|
 |[AppDAR](https://github.com/civic-health-innovation-labs/AppDAR)||Data Access Request application for Azure TRE|
 |[AzureTRE](https://github.com/civic-health-innovation-labs/AzureTRE)||An accelerator to help organizations build Trusted Research Environments on Azure.|
-|[DataEngineeringforHealthcare101](https://github.com/civic-health-innovation-labs/DataEngineeringforHealthcare101)|||
+|[DataEngineeringforHealthcare101](https://github.com/civic-health-innovation-labs/DataEngineeringforHealthcare101)|CHIL Induction|A place to store materials that introduce how we work and how we achieve what we do.|
 |[Diagnosis_and_Medications_Lists](https://github.com/civic-health-innovation-labs/Diagnosis_and_Medications_Lists)||This repository has been setup to share lists of diagnosis and medications associated with Mental Health Patients. Currently, the drug lists come from the Merseycare RIO system.|
 |[Early-ISAB-Reporting--2025-](https://github.com/civic-health-innovation-labs/Early-ISAB-Reporting--2025-)||A collection of notebooks that capture the different aspects of data analysis in 2025 and those issues that we have worked to resolve.|
 |[GenJERE](https://github.com/civic-health-innovation-labs/GenJERE)|||
