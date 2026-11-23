@@ -15,15 +15,15 @@
 |[TemplatesVM](https://github.com/civic-health-innovation-labs/TemplatesVM)||Azure Virtual Machine Template definitions for the AzureTRE project.|
 |📦[anonymization](https://github.com/civic-health-innovation-labs/anonymization)||A playground for anonymization of records.|
 |📦[archive-mric-tre](https://github.com/civic-health-innovation-labs/archive-mric-tre)|||
-|[cgull-docs-2025](https://github.com/civic-health-innovation-labs/cgull-docs-2025)|||
-|[cgull-k2-quality-check](https://github.com/civic-health-innovation-labs/cgull-k2-quality-check)||K2 data quality check R script|
-|[cgull-mssql-keys](https://github.com/civic-health-innovation-labs/cgull-mssql-keys)||Repository for API Keys T-SQL code|
-|[cgull-mssql-lims-rcimport](https://github.com/civic-health-innovation-labs/cgull-mssql-lims-rcimport)||T-SQL Code to import CGULL REDCap lab forms into LIMS|
-|[cgull-mssql-love2shop](https://github.com/civic-health-innovation-labs/cgull-mssql-love2shop)||Repository for Love2shop T-SQL code|
-|[cgull-mssql-modules](https://github.com/civic-health-innovation-labs/cgull-mssql-modules)||Repository for REDCap modules in SQL Server|
-|[cgull-mssql-recruitment](https://github.com/civic-health-innovation-labs/cgull-mssql-recruitment)||Repository for REDCap Recruitment in SQL Server|
-|[cgull-quality-check](https://github.com/civic-health-innovation-labs/cgull-quality-check)||Placeholder for R scripts|
-|[cgull-reports](https://github.com/civic-health-innovation-labs/cgull-reports)||a place to colloborate on cgull reporting|
+|[cgull-docs-2025](https://github.com/civic-health-innovation-labs/cgull-docs-2025)||Some various bits of documentation - mostly notes, probably should be archived|
+|[cgull-k2-quality-check](https://github.com/civic-health-innovation-labs/cgull-k2-quality-check)||K2 data quality check R script - Vincy's R script for K2 DQ (probably should be archived)|
+|[cgull-mssql-keys](https://github.com/civic-health-innovation-labs/cgull-mssql-keys)||Repository for API Keys T-SQL code - Need to check with Chris B|
+|[cgull-mssql-lims-rcimport](https://github.com/civic-health-innovation-labs/cgull-mssql-lims-rcimport)||T-SQL Code to import CGULL REDCap lab forms into LIMS - Need to check with Chris B|
+|[cgull-mssql-love2shop](https://github.com/civic-health-innovation-labs/cgull-mssql-love2shop)||Repository for Love2shop T-SQL code - Need to check with Chris B|
+|[cgull-mssql-modules](https://github.com/civic-health-innovation-labs/cgull-mssql-modules)||Repository for REDCap modules in SQL Server - Need to check with Chris B|
+|[cgull-mssql-recruitment](https://github.com/civic-health-innovation-labs/cgull-mssql-recruitment)||Repository for REDCap Recruitment in SQL Server - Need to check with Chris B|
+|[cgull-quality-check](https://github.com/civic-health-innovation-labs/cgull-quality-check)||Placeholder for R scripts - Vincy's work on DQ (probably should be archived)|
+|[cgull-reports](https://github.com/civic-health-innovation-labs/cgull-reports)||MONORepo - a place to colloborate on cgull reporting|
 |[chil-AppFlowy](https://github.com/civic-health-innovation-labs/chil-AppFlowy)||Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.|
 |[chil-avatar-docs](https://github.com/civic-health-innovation-labs/chil-avatar-docs)||Design and documentation for the Avatar project|
 |[chil-civic-tools](https://github.com/civic-health-innovation-labs/chil-civic-tools)||Shared repository for sharing ideas about CHIL tools for cleaning of data micro-project.|
